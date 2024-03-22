@@ -4,7 +4,10 @@
         <div class="col-lg-6 px-5 text-start">
             <small><i class="fa fa-map-marker-alt me-2"></i>Tudun Murtala,Kano,
                 Nigeria</small>
-            <small class="ms-4"><i class="fa fa-envelope me-2"></i>alibrabmemorialschool2021@gmail.com</small>
+            <small class="ms-4"><i class="fa fa-envelope me-2"></i>
+                <a href="mailto:alibrabmemorialschool2021@gmail.com"
+                    class="text-white-50">alibrabmemorialschool2021@gmail.com</a>
+            </small>
         </div>
         <div class="col-lg-6 px-5 text-end">
             <small>Follow us:</small>
@@ -17,7 +20,6 @@
         <a href="/" class="navbar-brand ms-4 ms-lg-0">
             <h1 class="fw-bold text-primary m-0">
                 Al-Ibrab
-                <!-- <span class="text-white"></span> -->
             </h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

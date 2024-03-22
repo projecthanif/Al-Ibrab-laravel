@@ -125,13 +125,13 @@
                             Our school is dedicated to providing quality education and support to orphans and less
                             privileged children, empowering them to break the cycle of poverty and build a brighter future.
                         </p>
-                        <a class="btn btn-primary py-2 px-3 me-3" href="">
+                        <a class="btn btn-primary py-2 px-3 me-3" href="/about">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                         </a>
-                        <a class="btn btn-outline-primary py-2 px-3" href="">
+                        <a class="btn btn-outline-primary py-2 px-3 mt-sm-2 mt-md-0" href="/contact">
                             Contact Us
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
