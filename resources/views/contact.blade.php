@@ -11,9 +11,6 @@
                     <li class="breadcrumb-item">
                         <a class="text-white" href="#">Home</a>
                     </li>
-                    <li class="breadcrumb-item">
-                        <a class="text-white" href="#">Pages</a>
-                    </li>
                     <li class="breadcrumb-item text-primary active" aria-current="page">
                         Contact Us
                     </li>
@@ -41,28 +38,29 @@
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="text" name="name" class="form-control" id="name"
-                                        placeholder="Your Name" required />
+                                           placeholder="Your Name" required/>
                                     <label for="name">Your Name</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="email" name="email" class="form-control" id="email"
-                                        placeholder="Your Email" required />
+                                           placeholder="Your Email" required/>
                                     <label for="email">Your Email</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
                                     <input type="text" name="subject" class="form-control" id="subject"
-                                        placeholder="Subject" />
+                                           placeholder="Subject"/>
                                     <label for="subject">Subject</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control" name="message" placeholder="Leave a message here" id="message" style="height: 100px"
-                                        required></textarea>
+                                    <textarea class="form-control" name="message" placeholder="Leave a message here"
+                                              id="message" style="height: 100px"
+                                              required></textarea>
                                     <label for="message">Message</label>
                                 </div>
                             </div>
@@ -80,9 +78,10 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s" style="min-height: 450px">
                     <div class="position-relative rounded overflow-hidden h-100">
                         <iframe class="position-relative w-100 h-100"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15608.38034733829!2d8.549137127907152!3d12.03697451118232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ae8154d6c15991%3A0x430bc66a58853cfd!2sTudun%20Murtala%2C%20Kano!5e0!3m2!1sen!2sng!4v1711122703596!5m2!1sen!2sng"
-                            frameborder="0" style="min-height: 450px; border: 0" allowfullscreen="" aria-hidden="false"
-                            tabindex="0"></iframe>
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15608.38034733829!2d8.549137127907152!3d12.03697451118232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ae8154d6c15991%3A0x430bc66a58853cfd!2sTudun%20Murtala%2C%20Kano!5e0!3m2!1sen!2sng!4v1711122703596!5m2!1sen!2sng"
+                                frameborder="0" style="min-height: 450px; border: 0" allowfullscreen=""
+                                aria-hidden="false"
+                                tabindex="0"></iframe>
                     </div>
                 </div>
             </div>

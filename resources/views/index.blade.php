@@ -6,8 +6,8 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="carousel-img"
-                        src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/424773160_415830714287763_284615268016146318_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEPDBmwKtzkYT24l6xSKukQy1Va0hvOCH3LVVrSG84IfRf0bpOKvPLZZ2AZI0U5sZY-9IFQqYriFKQdzI_zexsV&_nc_ohc=udmZ01S4SN4AX-QfAiE&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfD7WwyWi4mm2xxUUZmXIgUYyqeJ9bUIHYZG6y1ze4JNtg&oe=66023A0F"
-                        alt="Image" />
+                         src="{{asset('image/carousel3.jpg')}}"
+                         alt="Image"/>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -18,9 +18,10 @@
                                     <p class="fs-5 text-white-50 mb-5 animated slideInDown">
                                         where every child's potential is nurtured regardless of their background
                                     </p>
-                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="">
+                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="/about">
                                         Learn More
-                                        <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+                                        <div
+                                            class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                             <i class="fa fa-arrow-right"></i>
                                         </div>
                                     </a>
@@ -31,8 +32,8 @@
                 </div>
                 <div class="carousel-item">
                     <img class="carousel-img"
-                        src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/396141666_357147270156108_1561611579994327156_n.jpg?stp=c161.0.414.414a_dst-jpg_p552x414&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHEMgfU8TfK0OJV8Rk2UPg__NJ-_4RgS3L80n7_hGBLcqmmsmFtn4BZyBmHl-tDOXnOBWUxVtvvhim_dTvn_em0&_nc_ohc=zryjrK2MijkAX_xO-6J&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfCQPiXYtU3E7fTsyo3c87KKit5IjSajWWjSxrWQop4Skw&oe=6602A7A5"
-                        alt="Image" />
+                         src="{{asset('image/carousel2.jpg')}}"
+                         alt="Image"/>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -44,9 +45,10 @@
                                         we believe that every child deserves access to education and opportunities for
                                         growth
                                     </p>
-                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="">
+                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="/about">
                                         Learn More
-                                        <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+                                        <div
+                                            class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                             <i class="fa fa-arrow-right"></i>
                                         </div>
                                     </a>
@@ -57,8 +59,8 @@
                 </div>
                 <div class="carousel-item">
                     <img class="carousel-img"
-                        src="https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/424624432_415830807621087_792557379805642364_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEYI762DXNc1bYcgZ3XyjvigjJTeRP604mCMlN5E_rTiYCMI-pc4KsELU4HGGC7YHCYYBZLcXPJqLeLR-IcMU4C&_nc_ohc=B_v4qz_jNfgAX8QB1pN&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AfDK3L6k621WK7FBtGPfKlXAjo88cbGz1bmXDInQE4T3Mg&oe=6601CE73"
-                        alt="Image" />
+                         src="{{asset('image/carousel1.jpg')}}"
+                         alt="Image"/>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -70,9 +72,10 @@
                                         Together, let's build a future where every child has the opportunity to fulfill
                                         their potential and contribute positively to society
                                     </p>
-                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="">
+                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="/about">
                                         Learn More
-                                        <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+                                        <div
+                                            class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                             <i class="fa fa-arrow-right"></i>
                                         </div>
                                     </a>
@@ -101,10 +104,10 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative overflow-hidden h-100" style="min-height: 400px">
                         <img class="position-absolute w-100 h-100 pt-5 pe-5"
-                            src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/422084653_415830924287742_5983576037095105922_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFXhziEV-D6niFcq-8FlaSUCjFBQN5txFkKMUFA3m3EWbgoHUI2cTARLxUGIjCMEuhHT71kfDjdHupzh5JoFnpA&_nc_ohc=3KRPTskq1SoAX-xfRVk&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfDC6dTgIKN_YQFlzlBzHEc6S74Dyx-dLmBRUbSbhaWRSA&oe=6602B0FA"
-                            alt="" />
+                             src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/422084653_415830924287742_5983576037095105922_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFXhziEV-D6niFcq-8FlaSUCjFBQN5txFkKMUFA3m3EWbgoHUI2cTARLxUGIjCMEuhHT71kfDjdHupzh5JoFnpA&_nc_ohc=3KRPTskq1SoAX-xfRVk&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfDC6dTgIKN_YQFlzlBzHEc6S74Dyx-dLmBRUbSbhaWRSA&oe=6602B0FA"
+                             alt=""/>
                         <img class="position-absolute top-0 end-0 bg-white ps-2 pb-2" src="img/about-2.jpg" alt=""
-                            style="width: 200px; height: 200px" />
+                             style="width: 200px; height: 200px"/>
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -112,9 +115,9 @@
                         <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
                             About Us
                         </div>
-                        <h1 class="display-6 mb-5">
-                            Al-Ibrab is a Memorial School for Orphans&Less Previleged
-                        </h1>
+                        <h5 class="display-6 mb-5">
+                            Welcome to Al-Ibrab Memorial School
+                        </h5>
                         <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
                             <p class="text-dark mb-2">
                                 Education is the most powerful tool to change the world.
@@ -122,8 +125,18 @@
                             <span class="text-primary">-Nelson Mandela</span>
                         </div>
                         <p class="mb-5">
-                            Our school is dedicated to providing quality education and support to orphans and less
-                            privileged children, empowering them to break the cycle of poverty and build a brighter future.
+                            Founded in May 2020, Al-Ibrab Memorial School (A.I.M.S.) stands proudly in the ancient city
+                            of Kano, Northern Nigeria. As a privately owned institution, we are dedicated to providing
+                            quality education and support to orphans and less privileged children, empowering them to
+                            break the cycle of poverty and build a brighter future.
+
+                            A.I.M.S. is the educational arm of the Al-Ibrab Foundation, a non-profit organization
+                            committed to sustainable initiatives that benefit pupils, teachers, schools, and
+                            communities. Through partnerships with individuals, public, and private organizations, we
+                            implement programs that support holistic development.
+
+                            Join us in our mission to make a difference in the lives of these deserving children.
+                            Together, we can create opportunities for growth, learning, and success.
                         </p>
                         <a class="btn btn-primary py-2 px-3 me-3" href="/about">
                             Learn More
@@ -152,7 +165,7 @@
                     Feature Causes
                 </div>
                 <h1 class="display-6 mb-5">
-                    Every Child Deserves The Opportunity To Learn
+                    Empowering Every Child's Learning Journey
                 </h1>
             </div>
             <div class="row g-4 justify-content-center">
@@ -167,13 +180,14 @@
                                 Education For Orpaned & Less Previleged Children
                             </h5>
                             <p>
-                                We believe that every child deserves access to education and opportunities for growth.
+                                At Al-Ibrab Memorial School, we firmly believe that every child, regardless of their
+                                background, deserves access to quality education and opportunities for growth.
                             </p>
                         </div>
                         <div class="position-relative mt-auto">
                             <img class="img-fluid"
-                                src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/386781052_344322501438585_8678219053280164604_n.jpg?stp=c253.0.414.414a_dst-jpg_p552x414&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHrRVtCe7shRfBWeofJS_HMAoCktjUhjcoCgKS2NSGNymuqsmiI3gPqFtgWQa3vZBWBi_bnqP4a68Lr9giQRdvd&_nc_ohc=Oy6QbPf4HfMAX9u9C9S&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBaFh_sQzlqOSOcZJgek2eixsclzUsjzqbgCIWGexHqcw&oe=66038562"
-                                alt="" />
+                                 src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/386781052_344322501438585_8678219053280164604_n.jpg?stp=c253.0.414.414a_dst-jpg_p552x414&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHrRVtCe7shRfBWeofJS_HMAoCktjUhjcoCgKS2NSGNymuqsmiI3gPqFtgWQa3vZBWBi_bnqP4a68Lr9giQRdvd&_nc_ohc=Oy6QbPf4HfMAX9u9C9S&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBaFh_sQzlqOSOcZJgek2eixsclzUsjzqbgCIWGexHqcw&oe=66038562"
+                                 alt=""/>
                             <div class="causes-overlay">
                                 <a class="btn btn-outline-primary" href="">
                                     Read More
@@ -192,16 +206,16 @@
                             <div class="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4">
                                 <small>Education with Heart</small>
                             </div>
-                            <h5 class="mb-3">Nurturing Growth in an Inclusive Community</h5>
+                            <h5 class="mb-3">Fostering Inclusive Growth within our Community</h5>
                             <p>
-                                we not only focus on academic excellence but also on fostering a supportive and inclusive
-                                environment where children can thrive.
+                                Our commitment extends beyond academic excellence; we strive to cultivate a supportive
+                                and inclusive environment where all children can flourish.
                             </p>
                         </div>
                         <div class="position-relative mt-auto">
                             <img class="img-fluid"
-                                src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/386250019_344322244771944_1275715487395416523_n.jpg?stp=c253.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGkiobd6gHdb6mUJVBxwmBv7dpg02gbz4ft2mDTaBvPh642ybTFId_x5I3GVMKGttxQX8mGCRSTNh_n7LlIIZsG&_nc_ohc=1ycaB_gA_X0AX_4z6Uj&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBlxWmXrqJyy3lqqaqO7abstQdFWG0-K5GMUigkniuTKw&oe=660200B9"
-                                alt="" />
+                                 src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/386250019_344322244771944_1275715487395416523_n.jpg?stp=c253.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGkiobd6gHdb6mUJVBxwmBv7dpg02gbz4ft2mDTaBvPh642ybTFId_x5I3GVMKGttxQX8mGCRSTNh_n7LlIIZsG&_nc_ohc=1ycaB_gA_X0AX_4z6Uj&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBlxWmXrqJyy3lqqaqO7abstQdFWG0-K5GMUigkniuTKw&oe=660200B9"
+                                 alt=""/>
                             <div class="causes-overlay">
                                 <a class="btn btn-outline-primary" href="">
                                     Read More
@@ -220,16 +234,16 @@
                             <div class="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4">
                                 <small>Empowering Futures</small>
                             </div>
-                            <h5 class="mb-3">Education with Heart</h5>
+                            <h5 class="mb-3">Education with Compassion</h5>
                             <p>
-                                we believe education is more than just academics; it's about fostering a supportive and
-                                inclusive environment where every child can thrive.
+                                At our school, we understand that education goes beyond academics. It's about creating a
+                                nurturing and inclusive environment where every child can thrive
                             </p>
                         </div>
                         <div class="position-relative mt-auto">
                             <img class="img-fluid"
-                                src="https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/336647137_3189752141169561_1290924072464300051_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFAYulNAKyuXXzVomC6lKa6RX3ebX76QzJFfd5tfvpDMoQoRFs2aKAtXbuBh3K0D2psFLw5ZIMEQNv8Rrj7L5pC&_nc_ohc=Be-7zSQeqjwAX9soU3z&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AfCGWYH482Zj3Ft9dNlBsM9b0IHySdqfE8PTF3FHHECo2g&oe=6602B326"
-                                alt="" />
+                                 src="https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/336647137_3189752141169561_1290924072464300051_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFAYulNAKyuXXzVomC6lKa6RX3ebX76QzJFfd5tfvpDMoQoRFs2aKAtXbuBh3K0D2psFLw5ZIMEQNv8Rrj7L5pC&_nc_ohc=Be-7zSQeqjwAX9soU3z&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AfCGWYH482Zj3Ft9dNlBsM9b0IHySdqfE8PTF3FHHECo2g&oe=6602B326"
+                                 alt=""/>
                             <div class="causes-overlay">
                                 <a class="btn btn-outline-primary" href="">
                                     Read More
@@ -251,20 +265,20 @@
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 700px">
                 <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
-                    What We Do
+                    Our Mission
                 </div>
-                <h1 class="display-6 mb-5">Our Commitment: Transforming Lives Through Education</h1>
+                <h1 class="display-6 mb-5">Empowering Lives Through Education</h1>
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-1.png" alt="" />
+                        <img class="img-fluid mb-4" src="img/icon-1.png" alt=""/>
                         <h4 class="mb-3 fs-6">
-                            Child Education for the Orpaned and Less Previleged
+                            Empowering Orphaned and Underprivileged Children Through Education
                         </h4>
                         <p class="mb-4">
-                            Where we are dedicated to paving the way for brighter futures through child education for the
-                            orphaned and less privileged.
+                            At our institution, we are dedicated to creating pathways to brighter futures through child
+                            education tailored to the needs of orphaned and less privileged children.
                         </p>
                         <a class="btn btn-outline-primary px-3" href="">
                             Learn More
@@ -276,11 +290,12 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-2.png" alt="" />
-                        <h4 class="mb-3">Quality Education</h4>
+                        <img class="img-fluid mb-4" src="img/icon-2.png" alt=""/>
+                        <h4 class="mb-3">Providing Quality Education</h4>
                         <p class="mb-4">
-                            We offer a comprehensive and engaging curriculum designed to stimulate curiosity, critical
-                            thinking, and creativity.
+                            Our curriculum is thoughtfully crafted to inspire curiosity, foster critical thinking, and
+                            ignite creativity, ensuring a comprehensive and engaging learning experience for all
+                            students.
                         </p>
                         <a class="btn btn-outline-primary px-3" href="">
                             Learn More
@@ -292,10 +307,11 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-3.png" alt="" />
-                        <h4 class="mb-3">Holistic Development</h4>
+                        <img class="img-fluid mb-4" src="img/icon-3.png" alt=""/>
+                        <h4 class="mb-3">Fostering Holistic Development</h4>
                         <p class="mb-4">
-                            We believe in nurturing the whole child - academically, socially, emotionally, and physically.
+                            Our philosophy centers on nurturing the complete child, addressing their academic, social,
+                            emotional, and physical well-being to ensure comprehensive growth and development.
                         </p>
                         <a class="btn btn-outline-primary px-3" href="">
                             Learn More

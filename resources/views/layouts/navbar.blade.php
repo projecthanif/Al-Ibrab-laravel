@@ -6,15 +6,15 @@
                 Nigeria</small>
             <small class="ms-4"><i class="fa fa-envelope me-2"></i>
                 <a href="mailto:alibrabmemorialschool2021@gmail.com"
-                    class="text-white-50">alibrabmemorialschool2021@gmail.com</a>
+                   class="text-white-50">alibrabmemorialschool2021@gmail.com</a>
             </small>
             <small class="ms-4"><i class="fa fa-envelope me-2"></i>
                 <a href="mailto:info@al-ibrabmemorialschool.com.ng"
-                    class="text-white-50">info@al-ibrabmemorialschool.com.ng</a>
+                   class="text-white-50">info@al-ibrabmemorialschool.com.ng</a>
             </small>
             <small>Follow us:
                 <a class="text-white-50 ms-3" href="https://www.facebook.com/profile.php?id=100075825131277"
-                    target="_blank"><i class="fab fa-facebook-f"></i></a>
+                   target="_blank"><i class="fab fa-facebook-f"></i></a>
             </small>
         </div>
     </div>
@@ -34,8 +34,8 @@
                 <a href="/about" class="nav-item nav-link {{ $nav == 'about' ? 'active' : '' }}"">About</a>
                 <a href="/causes" class="nav-item nav-link {{ $nav == 'causes' ? 'active' : '' }}"">Causes</a>
                 <a href="/services" class="nav-item nav-link {{ $nav == 'services' ? 'active' : '' }}">Services</a>
-                <a href="/contact" class="nav-item nav-link {{ $nav == 'contact' ? 'active' : '' }}">Contact</a>
                 <a href="/gallery" class="nav-item nav-link {{ $nav == 'gallery' ? 'active' : '' }}">Gallery</a>
+                <a href="/contact" class="nav-item nav-link {{ $nav == 'contact' ? 'active' : '' }}">Contact</a>
             </div>
             <!-- <div class="d-none d-lg-flex ms-2">
         <a class="btn btn-outline-primary py-2 px-3" href="">
