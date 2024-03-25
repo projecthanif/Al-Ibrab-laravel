@@ -35,6 +35,7 @@
                 <a href="/causes" class="nav-item nav-link {{ $nav == 'causes' ? 'active' : '' }}"">Causes</a>
                 <a href="/services" class="nav-item nav-link {{ $nav == 'services' ? 'active' : '' }}">Services</a>
                 <a href="/contact" class="nav-item nav-link {{ $nav == 'contact' ? 'active' : '' }}">Contact</a>
+                <a href="/gallery" class="nav-item nav-link {{ $nav == 'gallery' ? 'active' : '' }}">Gallery</a>
             </div>
             <!-- <div class="d-none d-lg-flex ms-2">
         <a class="btn btn-outline-primary py-2 px-3" href="">

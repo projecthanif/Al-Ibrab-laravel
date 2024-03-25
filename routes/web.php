@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ContactController;
+use App\Models\Contact;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -27,8 +29,13 @@ Route::get('/services', function () {
     ]);
 });
 
-Route::get('/contact', function () {
-    return view('contact', [
-        'nav' => 'contact'
+Route::get('/contact', [ContactController::class, 'index']);
+Route::post('/contact/mail', [
+    ContactController::class, 'sendMail'
+])->name('sendMailQuery');
+
+Route::get('/gallery', function () {
+    return view('gallery', [
+        'nav' => 'gallery'
     ]);
 });
