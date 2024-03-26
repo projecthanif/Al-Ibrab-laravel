@@ -326,6 +326,50 @@
     </div>
     <!-- Service End -->
 
+    <!-- Vision Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="h-100">
+                        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
+                            Vision
+                        </div>
+                        <p class="mb-5">
+                            At Al-Ibrab we believe every child
+                            has a right to quality education and
+                            as such it's our vision to provide
+                            dynamic classroom practice to children
+                            of the underprivileged and economically
+                            challenged at very cost-effective fees
+                            for parents who can afford.
+                        </p>
+                        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
+                            MISSION
+                        </div>
+                        <p class="mb-5">
+                            To equip the underprivileged
+                            Nigerian child for the 21st
+                            century by providing equal
+                            quality educational
+                            opportunities.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="position-relative overflow-hidden h-100" style="min-height: 400px">
+                        <img class="position-absolute w-100 h-100 pt-5 pe-5"
+                             src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/422084653_415830924287742_5983576037095105922_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFXhziEV-D6niFcq-8FlaSUCjFBQN5txFkKMUFA3m3EWbgoHUI2cTARLxUGIjCMEuhHT71kfDjdHupzh5JoFnpA&_nc_ohc=3KRPTskq1SoAX-xfRVk&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfDC6dTgIKN_YQFlzlBzHEc6S74Dyx-dLmBRUbSbhaWRSA&oe=6602B0FA"
+                             alt=""/>
+                        <img class="position-absolute top-0 end-0 bg-white ps-2 pb-2" src="img/about-2.jpg" alt=""
+                             style="width: 200px; height: 200px"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Vision End -->
+
     {{-- <!-- Donate Start -->
     <div class="container-fluid donate my-5 py-5" data-parallax="scroll" data-image-src="img/carousel-2.jpg">
         <div class="container py-5">
