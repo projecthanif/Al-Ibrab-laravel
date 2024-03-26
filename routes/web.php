@@ -1,7 +1,6 @@
 <?php
 
 use App\Http\Controllers\ContactController;
-use App\Models\Contact;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -17,15 +16,15 @@ Route::get('/about', function () {
 });
 
 
-Route::get('/causes', function () {
-    return view('cause', [
-        'nav' => 'causes'
+Route::get('/programs', function () {
+    return view('programs', [
+        'nav' => 'programs'
     ]);
 });
 
-Route::get('/services', function () {
-    return view('services', [
-        'nav' => 'services'
+Route::get('/admission', function () {
+    return view('admission', [
+        'nav' => 'admission'
     ]);
 });
 

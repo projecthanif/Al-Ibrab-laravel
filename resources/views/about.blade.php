@@ -281,7 +281,7 @@
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
                             <img class="img-fluid"
-                                 src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/324414878_565162758808250_415937705685267500_n.jpg?stp=c0.119.712.712a_dst-jpg_s552x414&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGSXbBl_o6Eur0kGVFv-mYCa0mMGwpW751rSYwbClbvnXnuN4CxqyIVIOnCEX2UuFfXAPnFxvcrpiV2Wa0-p9cH&_nc_ohc=G8XV8KRAaA8AX_F25-z&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfDDJ80PrqHYvUSbRugExdBsJVGJhKiwblzvAD8ZUPjFsQ&oe=660386BF"
+                                 src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/258588430_106630578512987_7955240258584324679_n.jpg?stp=c0.107.637.637a_dst-jpg_s552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGj1iQAiaXUMfZFdjOau4wCd-fERwW7Q9R358RHBbtD1N6LAFB68Ahec2wQZ-qyRkZQv7U--OGQRYV5MCFpGKDh&_nc_ohc=uH92Dx4v_eUAX-iUtIM&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBkg4klyeq6YgYx903cwE9D5vtOdWKun2d7b4pqcyZEAg&oe=6607079D"
                                  alt=""/>
                         </div>
                         <div class="team-text bg-light text-center p-4">

@@ -2,8 +2,8 @@
 <div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
     <div class="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex">
         <div class="col-lg-12 px-5 text-start d-flex justify-content-between">
-            <small><i class="fa fa-map-marker-alt me-2"></i>Tudun Murtala,Kano,
-                Nigeria</small>
+            <small><i class="fa fa-map-marker-alt me-2"></i>Contact Address: No. 90, Kwanar Yan Ghana, Tudun Murtala,
+                Kano</small>
             <small class="ms-4"><i class="fa fa-envelope me-2"></i>
                 <a href="mailto:alibrabmemorialschool2021@gmail.com"
                    class="text-white-50">alibrabmemorialschool2021@gmail.com</a>
@@ -32,8 +32,8 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="/" class="nav-item nav-link {{ $nav == 'index' ? 'active' : '' }}">Home</a>
                 <a href="/about" class="nav-item nav-link {{ $nav == 'about' ? 'active' : '' }}"">About</a>
-                <a href="/causes" class="nav-item nav-link {{ $nav == 'causes' ? 'active' : '' }}"">Causes</a>
-                <a href="/services" class="nav-item nav-link {{ $nav == 'services' ? 'active' : '' }}">Services</a>
+                <a href="/programs" class="nav-item nav-link {{ $nav == 'programs' ? 'active' : '' }}"">Programs</a>
+                <a href="/admission" class="nav-item nav-link {{ $nav == 'admission' ? 'active' : '' }}">Admission</a>
                 <a href="/gallery" class="nav-item nav-link {{ $nav == 'gallery' ? 'active' : '' }}">Gallery</a>
                 <a href="/contact" class="nav-item nav-link {{ $nav == 'contact' ? 'active' : '' }}">Contact</a>
             </div>

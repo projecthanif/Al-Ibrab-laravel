@@ -23,7 +23,6 @@
                 <h5 class="text-light mb-4">Quick Links</h5>
                 <a class="btn btn-link" href="/about">About Us</a>
                 <a class="btn btn-link" href="/contact">Contact Us</a>
-                <a class="btn btn-link" href="/services">Our Services</a>
             </div>
             {{-- <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Newsletter</h5>

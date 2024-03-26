@@ -31,8 +31,9 @@
     <link href="css/bootstrap.min.css" rel="stylesheet"/>
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet"/>
+    <link href="{{asset('css/style.css')}}" rel="stylesheet"/>
 </head>
+
 
 <body>
 <!-- Spinner Start -->
@@ -41,6 +42,7 @@
     <div class="spinner-grow text-primary" role="status"></div>
 </div>
 <!-- Spinner End -->
+
 
 @include('layouts.navbar')
 
