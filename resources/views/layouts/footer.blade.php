@@ -41,10 +41,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="/">Al-Ibrab</a>, All Right Reserved.
+                    &copy; <a href="/">Al-Ibrab</a>
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    Made by <a href="https://projecthanif.netlify.app/" target="_blank">Projecthanif</a>
+                    {{--                    Made by <a href="https://projecthanif.netlify.app/" target="_blank">Projecthanif</a>--}}
                 </div>
             </div>
         </div>

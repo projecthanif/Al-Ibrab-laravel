@@ -3,10 +3,14 @@
 
 <head>
     <meta charset="utf-8"/>
-    <title>Al-Ibrab Memorial School for Orphans & Less Previleged</title>
+    <title>Al-Ibrab Memorial School for Orphans & Less Privileged</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <meta content="" name="keywords"/>
-    <meta content="" name="description"/>
+    <meta
+        content="School,Secondary School, Alibrab, AlIbrab, Al-Ibrab, Al, ibrab, Nigeria, Kano, Nigeria Kano, Junior Secondary, Primary, Nursery, "
+        name="keywords"/>
+    <meta
+        content="Al-Ibrab Memorial School located at No. 90, Kwanar Yan Ghana, Tudun Murtala, Kano is a school that offers free for Orphan and less privileged"
+        name="description"/>
 
     <!-- Favicon -->
     <link href="{{asset('logo-removebg-preview.png')}}" rel="icon"/>

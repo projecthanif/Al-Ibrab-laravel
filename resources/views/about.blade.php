@@ -45,17 +45,19 @@
                             </p>
                             <span class="text-primary">-Nelson Mandela</span>
                         </div>
-                        <p class="mb-5">
+                        <p class="mb-1">
                             Founded in May 2020, Al-Ibrab Memorial School (A.I.M.S.) stands proudly in the ancient city
                             of Kano, Northern Nigeria. As a privately owned institution, we are dedicated to providing
                             quality education and support to orphans and less privileged children, empowering them to
                             break the cycle of poverty and build a brighter future.
-
+                        </p>
+                        <p>
                             A.I.M.S. is the educational arm of the Al-Ibrab Foundation, a non-profit organization
                             committed to sustainable initiatives that benefit pupils, teachers, schools, and
                             communities. Through partnerships with individuals, public, and private organizations, we
                             implement programs that support holistic development.
-
+                        </p>
+                        <p>
                             Join us in our mission to make a difference in the lives of these deserving children.
                             Together, we can create opportunities for growth, learning, and success.
                         </p>
@@ -272,21 +274,129 @@
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
                 <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
-                    Staff's
+                    StakeHolder's
                 </div>
-                <h1 class="display-6 mb-5">Let's Meet With Our Stockholder's</h1>
+                <h1 class="display-6 mb-5">Let's Meet With Our StakeHolder's</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
                             <img class="img-fluid"
-                                 src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/258588430_106630578512987_7955240258584324679_n.jpg?stp=c0.107.637.637a_dst-jpg_s552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGj1iQAiaXUMfZFdjOau4wCd-fERwW7Q9R358RHBbtD1N6LAFB68Ahec2wQZ-qyRkZQv7U--OGQRYV5MCFpGKDh&_nc_ohc=uH92Dx4v_eUAX-iUtIM&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBkg4klyeq6YgYx903cwE9D5vtOdWKun2d7b4pqcyZEAg&oe=6607079D"
+                                 src="{{asset('img/founder-1.png')}}"
                                  alt=""/>
                         </div>
                         <div class="team-text bg-light text-center p-4">
                             <h5 class="fs-5">Fatima Ibrahim Haruna</h5>
                             <p class="text-primary">Founder</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid"
+                                 src="{{asset('img/founder-2.png')}}"
+                                 alt=""/>
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5 class="fs-5"></h5>
+                            <p class="text-primary"></p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid"
+                                 src="{{asset('img/founder-3.png')}}"
+                                 alt=""/>
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5 class="fs-5"></h5>
+                            <p class="text-primary"></p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid"
+                                 src="{{asset('img/founder-4.png')}}"
+                                 alt=""/>
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5 class="fs-5"></h5>
+                            <p class="text-primary"></p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid"
+                                 src="{{asset('img/founder-5.png')}}"
+                                 alt=""/>
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5 class="fs-5"></h5>
+                            <p class="text-primary"></p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid"
+                                 src="{{asset('img/founder-6.png')}}"
+                                 alt=""/>
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5 class="fs-5"></h5>
+                            <p class="text-primary"></p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid"
+                                 src="{{asset('img/founder-7.png')}}"
+                                 alt=""/>
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5 class="fs-5"></h5>
+                            <p class="text-primary"></p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>

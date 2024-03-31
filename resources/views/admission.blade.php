@@ -29,12 +29,16 @@
             </div>
             <p>
                 At Al-Ibrab Memorial School We offer a comprehensive educational experience for children from ages 4 to
-                11
-                years. We understand the challenges parents face in enrolling their children due to economic
+                11 years. We understand the challenges parents face in enrolling their children due to economic
                 constraints, but we invite you to explore our prospectus to discover what makes A.I.M.S. special.
                 Our primary school program includes classes from First Year Primary 1 (4-5 years) with the possibility
-                of exceptional entry into Class 3 (6-7 years). Additionally, we offer secondary education to ensure a
+                of exceptional entry into Class 3 (6-7 years).
+            </p>
+            <p>
+                Additionally, we offer secondary education to ensure a
                 seamless transition for our students as they progress in their academic journey.
+            </p>
+            <p>
                 All applicants undergo interviews to determine the most suitable class for admission, ensuring each
                 child receives the personalized attention and support they need to thrive. Explore our prospectus to
                 learn more about the unique opportunities awaiting your child at Al-Ibrab Memorial School.
@@ -49,7 +53,8 @@
                 tomorrow's world. We blend academic excellence with diverse opportunities and challenges, fostering
                 self-assured and autonomous young individuals with a profound community spirit, poised to emerge as
                 accountable and contemplative leaders.
-
+            </p>
+            <p>
                 At A.I.M.S., we provide high-quality, affordable education, coupled with a nurturing sense of belonging
                 and ample room for personal growth, enabling each student to realize their utmost potential. We extend a
                 warm invitation for you to visit our school and witness our ethos firsthand.
@@ -70,10 +75,10 @@
                 </h1>
             </div>
             <p>
-                The fee for one year is N20, 000 (Twenty Thousand Naira) for convenience of parents, this
-                annual fee can be divided into three termly payments of N10, 000 and N5, 000 subsequently
+                The fee for one year is N20,000 (Twenty Thousand Naira) for convenience of parents, this
+                annual fee can be divided into three termly payments of N10,000 and N5,000 subsequently
                 next two terms.
-                N5, 000 covers tuition for each of the three terms and an additional N5, 000 covers a set of
+                N5,000 covers tuition for each of the three terms and an additional N5,000 covers a set of
                 Uniform, school shoes and books.
                 Payments are by direct payment on or before first day of term unless alternative
                 arrangements have been agreed.
@@ -98,7 +103,7 @@
             <p>
                 There is no need to apply separately for an academic scholarship, as all applicants are automatically
                 considered. For further clarification or inquiries regarding our scholarship program, please refer to
-                the "Sponsor a Child" section or contact our admissions office.
+                the <a href="/scholarship">"Sponsor a Child"</a> section or contact our admissions office.
             </p>
         </article>
     </section>

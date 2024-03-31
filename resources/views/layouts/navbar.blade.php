@@ -31,22 +31,24 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="/" class="nav-item nav-link {{ $nav == 'index' ? 'active' : '' }}">Home</a>
-                <a href="/about" class="nav-item nav-link {{ $nav == 'about' ? 'active' : '' }}"">About</a>
-                <a href="/programs" class="nav-item nav-link {{ $nav == 'programs' ? 'active' : '' }}"">Programs</a>
+                <a href="/about" class="nav-item nav-link {{ $nav == 'about' ? 'active' : '' }}">About</a>
                 <a href="/admission" class="nav-item nav-link {{ $nav == 'admission' ? 'active' : '' }}">Admission</a>
                 <a href="/gallery" class="nav-item nav-link {{ $nav == 'gallery' ? 'active' : '' }}">Gallery</a>
+                <a href="/scholarship" class="nav-item nav-link {{ $nav == 'sponsor' ? 'active' : '' }}">
+                    Scholarship
+                </a>
                 <a href="/contact" class="nav-item nav-link {{ $nav == 'contact' ? 'active' : '' }}">Contact</a>
             </div>
-            <!-- <div class="d-none d-lg-flex ms-2">
-        <a class="btn btn-outline-primary py-2 px-3" href="">
-          Donate Now
-          <div
-            class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2"
-          >
-            <i class="fa fa-arrow-right"></i>
-          </div>
-        </a>
-      </div> -->
+            <div class="d-none d-lg-flex ms-2">
+                <a class="btn btn-outline-primary py-2 px-3" href="">
+                    Sponsor a Child
+                    <div
+                        class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2"
+                    >
+                        <i class="fa fa-arrow-right"></i>
+                    </div>
+                </a>
+            </div>
         </div>
     </nav>
 </div>

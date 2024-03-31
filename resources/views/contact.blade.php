@@ -65,7 +65,7 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button type="submit" class="btn btn-primary py-2 px-3 me-3">
+                                <button type="submit" class="btn btn-primary py-2 px-3 me-3" disabled>
                                     Send Message
                                     <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                         <i class="fa fa-arrow-right"></i>
@@ -79,7 +79,7 @@
                     <div class="position-relative rounded overflow-hidden h-100">
                         <iframe class="position-relative w-100 h-100"
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15608.38034733829!2d8.549137127907152!3d12.03697451118232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ae8154d6c15991%3A0x430bc66a58853cfd!2sTudun%20Murtala%2C%20Kano!5e0!3m2!1sen!2sng!4v1711122703596!5m2!1sen!2sng"
-                                frameborder="0" style="min-height: 450px; border: 0" allowfullscreen=""
+                                style="min-height: 450px; border: 0" allowfullscreen=""
                                 aria-hidden="false"
                                 tabindex="0"></iframe>
                     </div>
